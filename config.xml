@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="au.com.jobcentreaustralia.jcalmoodle" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>JCAL Moodle</name>
-  <description>Official Moodle Mobile app for JCAL</description>
+  <description>Official Moodle Mobile App for JCAL</description>
   <author href="http://jobcentreaustralia.com.au" email="jdv_lavictoire@hotmail.com">Viv Lavictoire</author>
   <content src="index.html"/>
   <access origin="*"/>
